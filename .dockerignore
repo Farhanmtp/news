@@ -1,0 +1,7 @@
+node_modules
+build
+.dockerignoregit add README.md
+Dockerfile
+README.md
+.git
+.gitignore
